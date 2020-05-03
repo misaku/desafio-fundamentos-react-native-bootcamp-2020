@@ -7,10 +7,10 @@
 <p align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/misaku/desafio-fundamentos-react-native-bootcamp-2020?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://misaku.github.io">
+    <img alt="Made by Michel dos Santos Kuguio" src="https://img.shields.io/badge/made%20by-Michel%20dos%20Santos%20Kuguio-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
@@ -25,6 +25,9 @@
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+## :rocket: Resultado final
+<img src="./assets/rntest.gif" alt="Resultado final"/>
 
 ## :rocket: Sobre o desafio
 
@@ -132,4 +135,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Michel dos Santos Kuguio
